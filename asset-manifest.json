@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/buildvsbuy/static/js/main.ed8a7ec7.chunk.js",
+    "main.js.map": "/buildvsbuy/static/js/main.ed8a7ec7.chunk.js.map",
+    "runtime-main.js": "/buildvsbuy/static/js/runtime-main.32f630d7.js",
+    "runtime-main.js.map": "/buildvsbuy/static/js/runtime-main.32f630d7.js.map",
+    "static/js/2.eef2a9b6.chunk.js": "/buildvsbuy/static/js/2.eef2a9b6.chunk.js",
+    "static/js/2.eef2a9b6.chunk.js.map": "/buildvsbuy/static/js/2.eef2a9b6.chunk.js.map",
+    "index.html": "/buildvsbuy/index.html",
+    "static/js/2.eef2a9b6.chunk.js.LICENSE.txt": "/buildvsbuy/static/js/2.eef2a9b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32f630d7.js",
+    "static/js/2.eef2a9b6.chunk.js",
+    "static/js/main.ed8a7ec7.chunk.js"
+  ]
+}
